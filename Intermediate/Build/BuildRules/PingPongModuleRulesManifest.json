@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\User\\Documents\\Unreal Projects\\main\\PingPong\\PingPong\\Source\\PingPong\\PingPong.Build.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\main\\PingPong\\PingPong\\Source\\PingPong.Target.cs",
+		"C:\\Users\\User\\Documents\\Unreal Projects\\main\\PingPong\\PingPong\\Source\\PingPongEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

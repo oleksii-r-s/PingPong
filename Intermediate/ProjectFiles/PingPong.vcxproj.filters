@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PingPong.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4B5447BC-63A1-40F4-8259-0DFFAA1CA632}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PingPong.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PingPongEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D40E877C-2D18-4A32-B467-1EF1753EBBAD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PingPong">
+      <UniqueIdentifier>{67F9D900-1A67-404D-81BC-9F739645C4B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PingPong\PingPong.Build.cs">
+      <Filter>Source\PingPong</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PingPong\PingPong.cpp">
+      <Filter>Source\PingPong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PingPong\PingPong.h">
+      <Filter>Source\PingPong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PingPong\PingPongGameModeBase.cpp">
+      <Filter>Source\PingPong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PingPong\PingPongGameModeBase.h">
+      <Filter>Source\PingPong</Filter>
+    </ClInclude>
+    <Filter Include="Source\PingPong\Private">
+      <UniqueIdentifier>{27FD5C3F-3524-48B2-ADE5-BDFF8DA59722}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\PingPong\Private\Ball">
+      <UniqueIdentifier>{A19FA3D4-C11E-406A-BB76-3F8E77CA49FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PingPong\Private\Ball\MyProject2Ball.cpp">
+      <Filter>Source\PingPong\Private\Ball</Filter>
+    </ClCompile>
+    <Filter Include="Source\PingPong\Private\Components">
+      <UniqueIdentifier>{7AC6CA7E-284A-4127-874A-57CAF54A26F1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PingPong\Private\Components\PPScoreActorComponent.cpp">
+      <Filter>Source\PingPong\Private\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\PingPong\Private\Dev">
+      <UniqueIdentifier>{166C8B0F-03B9-4831-9F39-6C25647CDBA4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PingPong\Private\Dev\PPDevScoreActor.cpp">
+      <Filter>Source\PingPong\Private\Dev</Filter>
+    </ClCompile>
+    <Filter Include="Source\PingPong\Private\Player">
+      <UniqueIdentifier>{1B97C997-7C8A-4FF2-81A0-6BC0753A01A6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PingPong\Private\Player\PPMyCharacter.cpp">
+      <Filter>Source\PingPong\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PingPong\Private\Player\PPPlayerController.cpp">
+      <Filter>Source\PingPong\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\PingPong\Public">
+      <UniqueIdentifier>{176F1712-BED3-4A43-8185-FFA059378D20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\PingPong\Public\Ball">
+      <UniqueIdentifier>{A178739B-399C-41B6-97F2-A607036DC10B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PingPong\Public\Ball\MyProject2Ball.h">
+      <Filter>Source\PingPong\Public\Ball</Filter>
+    </ClInclude>
+    <Filter Include="Source\PingPong\Public\Components">
+      <UniqueIdentifier>{F79BF917-105D-4049-8901-FE4B7DE456BC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PingPong\Public\Components\PPScoreActorComponent.h">
+      <Filter>Source\PingPong\Public\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\PingPong\Public\Dev">
+      <UniqueIdentifier>{0F033299-9BCE-40AD-9FB0-A568886162BE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PingPong\Public\Dev\PPDevScoreActor.h">
+      <Filter>Source\PingPong\Public\Dev</Filter>
+    </ClInclude>
+    <Filter Include="Source\PingPong\Public\Player">
+      <UniqueIdentifier>{CE14BCC2-9527-45BF-8FEB-ED1FC6B1BA7C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PingPong\Public\Player\PPMyCharacter.h">
+      <Filter>Source\PingPong\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PingPong\Public\Player\PPPlayerController.h">
+      <Filter>Source\PingPong\Public\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
